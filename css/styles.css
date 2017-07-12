@@ -1,0 +1,34 @@
+/*height classes*/
+.xs-height {
+  height: 20px;
+}
+
+.sm-height {
+  height: 60px;
+}
+
+.md-height {
+  height: 180px;
+}
+
+.lg-height {
+  height: 540px;
+}
+
+/*background-color class*/
+.bg-black {
+  background-color: black;
+}
+
+/*content styles*/
+#outer {
+  margin-top: 50px;
+}
+
+.horizontal-gap {
+  margin: 0 30px;
+}
+
+.xs-top-gap {
+  margin-top: 20px;
+}
